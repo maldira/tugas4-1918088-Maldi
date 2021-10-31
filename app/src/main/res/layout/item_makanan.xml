@@ -7,7 +7,7 @@
     android:layout_height="wrap_content"
     android:layout_margin="6dp"
     android:orientation="vertical"
-    app:cardBackgroundColor="#F38F8F"
+    app:cardBackgroundColor="#1AE404"
     app:cardCornerRadius="8dp">
 
     <RelativeLayout
